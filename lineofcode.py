@@ -1,4 +1,4 @@
 __author__ = 'Cybergig22 / KalibreX'
 
-fuckoff = "fuckoff"
-print fuckoff
+pissoff = "fuckoff"
+print pissoff
